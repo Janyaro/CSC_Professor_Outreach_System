@@ -1,0 +1,461 @@
+[
+ {
+  "is_professor": true,
+  "name": "Shulong Li",
+  "title": "Professor",
+  "department": "School of Biomedical Engineering",
+  "email": "shulong@smu.edu.cn",
+  "research_interests": [
+   "Machine Learning",
+   "Deep Learning",
+   "Medical Image Analysis",
+   "Medical Artificial Intelligence",
+   "AI-assisted Diagnosis and Treatment of Pancreatic Cancer"
+  ],
+  "recent_work": [
+   "A pilot study using kernelled support tensor machine for distant failure prediction in lung SBRT",
+   "Predicting lung nodule malignancies by combining deep convolutional neural network and handcrafted features",
+   "A multimodal model fusing multiphase contrast-enhanced CT and clinical characteristics for predicting lymph node metastases of pancreatic cancer",
+   "Multi-objective based radiomic feature selection for lesion malignancy classification",
+   "aFaster RCNN：一种基于平扫 CT 的多疾病阶段胰腺病灶检测模型"
+  ],
+  "match_score": 9,
+  "match_reason": "The professor's research focuses on machine learning, deep learning, computer vision, and healthcare AI, which strongly aligns with the student's background and interests.",
+  "cs_related": true,
+  "cs_field": "artificial intelligence",
+  "recruiting": "unknown",
+  "recruit_evidence": "",
+  "wechat": "",
+  "university": "Southern Medical University",
+  "url": "https://portal.smu.edu.cn/swyxgcxy/info/1020/1735.htm",
+  "group": "A",
+  "subject": "Prospective Master's Student Inquiry - Medical Artificial Intelligence - Wasim Akram Janyaro",
+  "body": "Dear Professor Shulong Li,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, an AI chatbot, and Agile sprints to investigate Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on Medical Image Analysis and Deep Learning is closely related to my academic background and research interests. My experience with ChestScan-CNN and health informatics projects strongly connects with your focus on medical artificial intelligence.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Southern Medical University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ },
+ {
+  "is_professor": true,
+  "name": "Kezhi Zhang",
+  "title": "Master's Supervisor",
+  "department": "School of Physics and Electronics",
+  "email": "zhang_kz@126.com",
+  "research_interests": [
+   "Artificial Intelligence",
+   "Medical Information",
+   "Computer Vision",
+   "Healthcare Applications"
+  ],
+  "recent_work": [
+   "Early gastric cancer detection and lesion segmentation based on deep learning and gastroscope images",
+   "Application of Convolutional Neural Network in Lung Cancer Pathological Image recognition",
+   "Based on AI technology intelligent detection and recognition of gastric cancer lesion areas"
+  ],
+  "match_score": 9,
+  "match_reason": "The professor's research focuses on artificial intelligence, computer vision, and healthcare AI (such as deep learning for medical imaging), which strongly aligns with the student's background in Machine Learning, Deep Learning, Computer Vision, and Healthcare AI.",
+  "cs_related": true,
+  "cs_field": "artificial intelligence",
+  "recruiting": "students",
+  "recruit_evidence": "每年招生2~3名硕士研究生",
+  "wechat": "",
+  "university": "Nanning Normal University",
+  "url": "https://wdxy.nnnu.edu.cn/info/1150/3610.htm",
+  "group": "A",
+  "subject": "Prospective Master's Student Inquiry - Medical Imaging & Computer Vision",
+  "body": "Dear Professor Kezhi Zhang,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, AI chatbot, and Agile sprints to investigate Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on Computer Vision and Healthcare Applications is closely related to my academic background and research interests. My hands-on projects in Deep Learning and Computer Vision for healthcare applications, such as ChestScan-CNN, directly complement your work in medical image recognition and analysis.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Nanning Normal University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ },
+ {
+  "is_professor": true,
+  "name": "Yizhen Wang",
+  "title": "Professor, Vice Dean, Doctoral/Master Supervisor",
+  "department": "School of Physics and Electronic Engineering (Artificial Intelligence College)",
+  "email": "wangxuesu1980@163.com",
+  "research_interests": [
+   "Machine Learning",
+   "Deep Learning",
+   "Computer Vision",
+   "Healthcare AI",
+   "Explainable AI"
+  ],
+  "recent_work": [
+   "Early warning system for drivers’ phone usage with deep learning network",
+   "Waste plastic bottles classification with deep learning model",
+   "A dynamic displacement map based on deep Q network to assist the rendering of stylized 3D models",
+   "Enhancing the Transferability of Targeted Attacks with Adversarial Perturbation Transform",
+   "Dynamics of the deformable fluid interface interacting with an approaching solid under the electrostatic field"
+  ],
+  "match_score": 9,
+  "match_reason": "The professor's research explicitly covers machine learning, deep learning, computer vision, and AI applications in medical imaging and explainability, which strongly aligns with the student's interests.",
+  "cs_related": true,
+  "cs_field": "Artificial Intelligence",
+  "recruiting": "unknown",
+  "recruit_evidence": "",
+  "wechat": "",
+  "university": "Hainan Normal University",
+  "url": "https://ai.hainnu.edu.cn/2025/0609/c1134a155973/page.htm",
+  "group": "A",
+  "subject": "Prospective Master Student Inquiry: Deep Learning and Computer Vision - Wasim Akram Janyaro",
+  "body": "Dear Professor Yizhen Wang,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, AI chatbot, and Agile sprints to investigate Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on Deep Learning and Computer Vision is closely related to my academic background and research interests. My experience with deep learning and computer vision projects such as ChestScan-CNN directly aligns with your work in these areas.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Hainan Normal University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ },
+ {
+  "is_professor": true,
+  "name": "Haixia Long",
+  "title": "Professor",
+  "department": "School of Computer Science and Artificial Intelligence",
+  "email": "lhx@hainnu.edu.cn",
+  "research_interests": [
+   "Artificial Intelligence",
+   "Machine Learning",
+   "Deep Learning",
+   "Cybersecurity",
+   "Bioinformatics"
+  ],
+  "recent_work": [
+   "NIMEQ-SACNet:A novel self-attention precision medicine model for vision-threatening diabetic retinopathy usingimage data",
+   "WGM-dSAGA: Federated Learning Strategies with Byzantine Robustness Based on Weighted Geometric Median",
+   "Single-cell RNA-seq data analysis based on directed graph neural network",
+   "NT-GNN: Network Traffic Graph for 5G Mobile IoT Android Malware Detection"
+  ],
+  "match_score": 8,
+  "match_reason": "The professor's research heavily involves machine learning, deep learning, computer vision, and healthcare/biomedical applications, which closely aligns with the student's interests in Machine Learning, Deep Learning, Computer Vision, and Healthcare AI.",
+  "cs_related": true,
+  "cs_field": "artificial intelligence",
+  "recruiting": "students",
+  "recruit_evidence": "招生方向",
+  "wechat": "",
+  "university": "Hainan Normal University",
+  "url": "https://ai.hainnu.edu.cn/2022/1019/c1134a122834/page.htm",
+  "group": "A",
+  "subject": "Prospective Master's Student - Machine Learning and Deep Learning",
+  "body": "Dear Professor Haixia Long,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, AI chatbot, and Agile sprints to investigate Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on Machine Learning and Deep Learning is closely related to my academic background and research interests. My hands-on work with deep learning and computer vision projects directly connects with your advanced machine learning models.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Hainan Normal University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ },
+ {
+  "is_professor": true,
+  "name": "Chen Dong",
+  "title": "Professor",
+  "department": "School of Physics and Electronic Information",
+  "email": "chendong@nnnu.edu.cn",
+  "research_interests": [
+   "Artificial Intelligence",
+   "Deep Learning",
+   "Embodied Intelligence",
+   "Computer Vision",
+   "Wireless Network Optimization"
+  ],
+  "recent_work": [
+   "Based on AR Real-Scene Command and Digital Twin Technology for New Command and Dispatch System Research and Application",
+   "Key Technology Research and Application of Municipal Governance Based on Multi-Modal Large Models",
+   "Guangxi-Malaysia Embodied Sensory-Communication Artificial Intelligence Joint Laboratory Capacity Building"
+  ],
+  "match_score": 6,
+  "match_reason": "The professor's research interests include Deep Learning and Computer Vision, which align well with the student's background, though the application domains lean more towards embodied intelligence and municipal governance rather than healthcare.",
+  "cs_related": true,
+  "cs_field": "artificial intelligence",
+  "recruiting": "unknown",
+  "recruit_evidence": "",
+  "wechat": "",
+  "university": "Nanning Normal University",
+  "url": "https://wdxy.nnnu.edu.cn/info/1150/4496.htm",
+  "group": "A",
+  "subject": "Prospective Master's Student - Deep Learning and Computer Vision",
+  "body": "Dear Professor Chen Dong,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, an AI chatbot, and Agile sprints to investigate Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on Deep Learning and Computer Vision is closely related to my academic background and research interests. My experience with deep learning and computer vision aligns well with your work in these domains.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Nanning Normal University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ },
+ {
+  "is_professor": true,
+  "name": "Shulei Wu",
+  "title": "Professor",
+  "department": "School of Artificial Intelligence",
+  "email": "wsl@hainnu.edu.cn",
+  "research_interests": [
+   "Artificial Intelligence",
+   "Big Data Mining",
+   "Computer Vision",
+   "AI and Environmental Ecology"
+  ],
+  "recent_work": [
+   "A robust color image encryption algorithm based on 2D-SQSM hyperchaotic map and cyclic shift scrambling",
+   "TCCFNet: a semantic segmentation method for mangrove remote sensing images based on two-channel cross-fusion networks",
+   "A novel spatial graph attention networks for satellite-derived bathymetry in coastal and island waters",
+   "Semantic understanding based on multi-feature kernel sparse representation and decision rules for mangrove growth",
+   "Convolution Feature Inference-Based Semantic Understanding Method for Remote Sensing Images of Mangrove Forests"
+  ],
+  "match_score": 6,
+  "match_reason": "The professor's research covers Computer Vision and Machine Learning/AI applications in remote sensing and image processing, aligning with the student's interests in computer vision and deep learning, though lacking a direct focus on healthcare informatics.",
+  "cs_related": true,
+  "cs_field": "computer vision",
+  "recruiting": "students",
+  "recruit_evidence": "招生方向： 1、人工智能 2、电子信息（计算机技术、人工智能）",
+  "wechat": "",
+  "university": "Hainan Normal University",
+  "url": "https://ai.hainnu.edu.cn/2022/1019/c1134a122801/page.htm",
+  "group": "A",
+  "subject": "Prospective Master's Applicant in Computer Vision and AI - Wasim Akram Janyaro",
+  "body": "Dear Professor Shulei Wu,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, an AI chatbot, and Agile sprints to investigate Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on Computer Vision and Artificial Intelligence is closely related to my academic background and research interests. My hands-on experience in computer vision and deep learning projects aligns well with your work in advanced image processing and AI systems.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Hainan Normal University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ },
+ {
+  "is_professor": true,
+  "name": "Guoxiang Li",
+  "title": "Associate Professor",
+  "department": "School of Physics and Electronic Information",
+  "email": "masterlgx@163.com",
+  "research_interests": [
+   "Artificial Intelligence",
+   "Machine Vision",
+   "Information Hiding",
+   "Network Security",
+   "Digital Governance"
+  ],
+  "recent_work": [
+   "Reversible data hiding with PEH decomposition and hybrid dimensional histogram modification",
+   "密集特征哈希的遥感场景分类",
+   "融合词袋连通图的图像检索特征选择",
+   "基于谱回归特征降维的客户流失预测",
+   "一种多特征融合的特征匹配算法"
+  ],
+  "match_score": 6,
+  "match_reason": "The professor's research covers machine learning, computer vision, and AI, which overlaps with the student's background, though his application domains focus more on information hiding and network security rather than healthcare.",
+  "cs_related": true,
+  "cs_field": "Computer Vision",
+  "recruiting": "unknown",
+  "recruit_evidence": "",
+  "wechat": "",
+  "university": "Nanning Normal University",
+  "url": "https://wdxy.nnnu.edu.cn/info/1150/3967.htm",
+  "group": "A",
+  "subject": "Prospective Master's Student - Artificial Intelligence and Machine Vision",
+  "body": "Dear Associate Professor Guoxiang Li,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, AI chatbot, and Agile sprints to investigate Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on Artificial Intelligence and Machine Vision is closely related to my academic background and research interests. My experience with deep learning and computer vision projects aligns well with your expertise in visual intelligence.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Nanning Normal University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ },
+ {
+  "is_professor": true,
+  "name": "Xu Wu",
+  "title": "Professor",
+  "department": "School of Artificial Intelligence",
+  "email": "45209605@qq.com",
+  "research_interests": [
+   "Large Model Security and Agent Technology",
+   "Data Element Security and Privacy Protection",
+   "Blockchain and Trustworthy Federated Learning",
+   "Internet of Things Cross-Domain Security",
+   "Cryptography and Network Security"
+  ],
+  "recent_work": [
+   "Study on Reliable Federated Learning Model in IoV Environments",
+   "Privacy-preserving trust management method based on blockchain for cross-domain industrial IoT",
+   "A multi-dimensional framework for improving data reliability in mobile crowd sensing",
+   "Main-Secondary Blockchain Framework: Cross-domain Trust Management Mechanism using Trust Ticket"
+  ],
+  "match_score": 6,
+  "match_reason": "The professor focuses on Artificial Intelligence, data security, large model safety, and trustworthy federated learning, which aligns with some of the student's interests in Machine Learning and AI, though with a heavier emphasis on security.",
+  "cs_related": true,
+  "cs_field": "cyber/software security and privacy",
+  "recruiting": "students",
+  "recruit_evidence": "欢迎对以下当前研究热点方向有浓厚兴趣的同学报考硕士 / 博士研究生",
+  "wechat": "",
+  "university": "Hainan Normal University",
+  "url": "https://ai.hainnu.edu.cn/2024/1224/c1134a122846/page.htm",
+  "group": "A",
+  "subject": "Prospective Master's Student Inquiry - Trustworthy Federated Learning and AI",
+  "body": "Dear Professor Xu Wu,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, AI chatbot, and Agile sprints to investigate developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on Large Model Security and Trustworthy Federated Learning is closely related to my academic background and research interests. My experience with machine learning and deep learning health informatics projects provides a solid foundation for engaging with your security-focused AI frameworks.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Hainan Normal University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ },
+ {
+  "is_professor": true,
+  "name": "Kun Zhang",
+  "title": "Professor, Ph.D. Supervisor",
+  "department": "Artificial Intelligence",
+  "email": "kunzhang@hainnu.edu.cn",
+  "research_interests": [
+   "Artificial Intelligence Applications",
+   "Marine Information Transmission and Perception",
+   "Network Attack and Defense Technology",
+   "Ultra-Wideband Communication and Positioning Technology"
+  ],
+  "recent_work": [
+   "A novel semi-local centrality to identify influential nodes in complex networks by integrating multidimensional factors",
+   "An Indoor WiFi fingerprint positioning based on RSS and CSI",
+   "An Integrated CSPPC and BiLSTM Framework for Malicious URL Detection",
+   "Leveraging Machine Learning to Proactively Identify Phishing Campaigns before They Strike",
+   "Color image encryption method based on four-dimensional multi-scroll multi-wing hyperchaotic system and DNA mutation mechanism"
+  ],
+  "match_score": 5,
+  "match_reason": "The professor works on machine learning, deep learning, and AI applications, which aligns with some of the student's interests, but his primary focus is on networking, security, and marine information rather than healthcare AI or computer vision.",
+  "cs_related": true,
+  "cs_field": "artificial intelligence",
+  "recruiting": "students",
+  "recruit_evidence": "博士招生方向： 人工智能 ； 硕士招生方向： 网络空间安全（学硕），电子信息（计算机技术领域（专硕）），人工智能（专硕），网络与信息安全（专硕）",
+  "wechat": "",
+  "university": "Hainan Normal University",
+  "url": "https://ai.hainnu.edu.cn/2023/0419/c1134a122845/page.htm",
+  "group": "A",
+  "subject": "Inquiry regarding Master's supervision in Artificial Intelligence Applications",
+  "body": "Dear Professor Kun Zhang,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, AI chatbot, and Agile sprints to investigate Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on Artificial Intelligence Applications and Network Attack and Defense Technology is closely related to my academic background and research interests. My experience with machine learning and deep learning health informatics projects aligns well with your work in artificial intelligence applications.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Hainan Normal University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ },
+ {
+  "is_professor": true,
+  "name": "Yan He",
+  "title": "PI",
+  "department": "Division of Laboratory Medicine, Zhujiang Hospital & Microbiome Medicine Center",
+  "email": "197053351@qq.com",
+  "research_interests": [
+   "Microbiome-host interactions in aging related diseases",
+   "Multi-omics data analysis",
+   "Bioinformatics and biostatistics",
+   "Microbiome intervention"
+  ],
+  "recent_work": [
+   "Regional variation limits applications of healthy gut microbiome reference ranges and disease models",
+   "Linking gut microbiota, metabolic syndrome and economic status based on a population-level analysis",
+   "Stability of operational taxonomic units: an important but neglected property for analyzing microbial diversity",
+   "Gut microbiota partially mediates the effects of fine particulate matter on type 2 diabetes",
+   "Dysbiosis of the intestinal microbiota in neurocritically ill patients and the risk for death"
+  ],
+  "match_score": 3,
+  "match_reason": "The professor's research focuses on bioinformatics, multi-omics data analysis, and microbiome research, which overlaps slightly with big data and machine learning concepts, but lacks direct alignment with the student's core computer science and AI interests.",
+  "cs_related": true,
+  "cs_field": "data science",
+  "recruiting": "unknown",
+  "recruit_evidence": "",
+  "wechat": "",
+  "university": "Southern Medical University",
+  "url": "http://microbiome.smu.edu.cn/info/1009/1015.htm",
+  "group": "B",
+  "subject": "Prospective Master's Student: Multi-omics Data Analysis and Machine Learning",
+  "body": "Dear Professor Yan He,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, an AI chatbot, and Agile sprints to investigate Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on multi-omics data analysis and bioinformatics and biostatistics is interesting, and I am keen to broaden into this area using my software engineering and machine learning skills.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Southern Medical University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ },
+ {
+  "is_professor": true,
+  "name": "Guoqiang Zhang",
+  "title": "Professor",
+  "department": "School of Information Technology",
+  "email": "13050829@qq.com",
+  "research_interests": [
+   "Future network architecture",
+   "Energy-efficient networking",
+   "Network science and design",
+   "Network traffic optimization",
+   "Network coding"
+  ],
+  "recent_work": [
+   "Exploiting layer and spatial correlations to enhance SVC and tile based 360-degree video streaming",
+   "An on-demand off-path cache exploration based multipath forwarding strategy",
+   "Exploiting the layer correlation to improve DASH scheduling with scalable video coding"
+  ],
+  "match_score": 1,
+  "match_reason": "The professor's research focuses on computer networks, network architecture, and traffic optimization, which does not overlap with the student's machine learning, computer vision, and healthcare AI interests.",
+  "cs_related": true,
+  "cs_field": "computer networks and network software",
+  "recruiting": "unknown",
+  "recruit_evidence": "",
+  "wechat": "",
+  "university": "Hainan Normal University",
+  "url": "https://ai.hainnu.edu.cn/2022/1019/c1134a122837/page.htm",
+  "group": "B",
+  "subject": "Inquiry Regarding Master's Supervision in Future Network Architecture",
+  "body": "Dear Professor Guoqiang Zhang,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, an AI chatbot, and Agile sprints to investigate Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on future network architecture and network traffic optimization is interesting, and while my background is in machine learning and software systems, I am keen to broaden into this area using my core programming and development skills.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Hainan Normal University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ },
+ {
+  "is_professor": true,
+  "name": "Yu Zhou",
+  "title": "Associate Researcher",
+  "department": "School of Electrical, Electronics and Computer Engineering / AI",
+  "email": "zhouyu@hainnu.edu.cn",
+  "research_interests": [
+   "Asynchronous VLSI/system design methods"
+  ],
+  "recent_work": [
+   "Investigation of asynchronous pipeline circuits based on bundled-data encoding: Implementation styles, behavioral modeling, and timing analysis",
+   "Wind Power Interval Prediction Based on Improved Whale Optimization Algorithm and Fast Learning Network",
+   "Explicit Symplectic-Precise Iteration Algorithms for Linear Quadratic Regulator and Matrix Differential Riccati Equation",
+   "A Buck Converter for 5G NR RF-PA with 400ns Rise- and Fall-Time and Spread Spectrum Switching"
+  ],
+  "match_score": 1,
+  "match_reason": "The professor's research focuses on asynchronous circuit/system design and hardware implementation, which does not align with the student's background in machine learning, deep learning, and healthcare AI.",
+  "cs_related": true,
+  "cs_field": "embedded/cyber-physical systems",
+  "recruiting": "unknown",
+  "recruit_evidence": "",
+  "wechat": "",
+  "university": "Hainan Normal University",
+  "url": "https://ai.hainnu.edu.cn/2022/1025/c1135a122809/page.htm",
+  "group": "B",
+  "subject": "Inquiry regarding Master's supervision in Asynchronous VLSI and system design methods",
+  "body": "Dear Associate Professor Yu Zhou,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, an AI chatbot, and Agile sprints to investigate Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on Asynchronous VLSI/system design methods is interesting, and I am keen to broaden into this area using my software development and technical background.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Hainan Normal University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ },
+ {
+  "is_professor": true,
+  "name": "Shi Yun",
+  "title": "Professor",
+  "department": "Basic Medical Sciences",
+  "email": "hebmujpzx@hebmu.edu.cn",
+  "research_interests": [
+   "Artificial Intelligence in Education",
+   "Smart Curriculum Development",
+   "Educational Technology",
+   "Biochemistry Education"
+  ],
+  "recent_work": [
+   "AI赋能教学工具的开发和使用",
+   "生化喂鸡"
+  ],
+  "match_score": 1,
+  "match_reason": "The faculty member works on AI applications in medical education and teaching tools rather than machine learning for computer vision or healthcare informatics research.",
+  "cs_related": true,
+  "cs_field": "artificial intelligence",
+  "recruiting": "unknown",
+  "recruit_evidence": "",
+  "wechat": "",
+  "university": "Hebei Medical University",
+  "url": "https://jsfzzx.hebmu.edu.cn/a/2026/09/23/2030203230344ECFBCEA2A84379F2AFF.html",
+  "group": "B",
+  "subject": "Inquiry regarding Master's supervision in AI in Education - Wasim Akram Janyaro",
+  "body": "Dear Professor Shi Yun,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, an AI chatbot, and Agile sprints to investigate Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on Artificial Intelligence in Education and Educational Technology is interesting, and I am keen to broaden into this area using my software development and AI integration skills.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Hebei Medical University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ },
+ {
+  "is_professor": true,
+  "name": "Wang Mi",
+  "title": "Professor",
+  "department": "School of Information Science and Technology",
+  "email": "549857900@qq.com",
+  "research_interests": [
+   "Smart Education Theory and Practice",
+   "Digital Resource Design and Development"
+  ],
+  "recent_work": [],
+  "match_score": 1,
+  "match_reason": "The professor's research focuses on smart education and digital resource design, which does not align with the student's background in machine learning, deep learning, and healthcare AI.",
+  "cs_related": true,
+  "cs_field": "information systems",
+  "recruiting": "unknown",
+  "recruit_evidence": "",
+  "wechat": "",
+  "university": "Hainan Normal University",
+  "url": "https://ai.hainnu.edu.cn/2025/0916/c1134a158151/page.htm",
+  "group": "B",
+  "subject": "Prospective Master Student Inquiry - Smart Education and Digital Resource Design",
+  "body": "Dear Professor Wang Mi,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, AI chatbot, and Agile sprints to investigate Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on Smart Education Theory and Practice and Digital Resource Design and Development is interesting, and I am keen to broaden into this area using my software development and technical background.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Hainan Normal University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ },
+ {
+  "is_professor": true,
+  "name": "Zhaohui Lu",
+  "title": "Professor",
+  "department": "",
+  "email": "lu@hainnu.edu.cn",
+  "research_interests": [
+   "Educational Big Data",
+   "Web Application Development",
+   "Computer Networks and Applications"
+  ],
+  "recent_work": [
+   "Based on Campus WiFi Mobile Trajectory Big Data Mining Algorithm and its Parallelization Research"
+  ],
+  "match_score": 1,
+  "match_reason": "The professor's research focuses on educational big data, web applications, and computer networks, which do not align with the student's interests in machine learning, deep learning, computer vision, and healthcare AI.",
+  "cs_related": true,
+  "cs_field": "big data",
+  "recruiting": "unknown",
+  "recruit_evidence": "",
+  "wechat": "",
+  "university": "Hainan Normal University",
+  "url": "https://ai.hainnu.edu.cn/2022/1025/c1134a122844/page.htm",
+  "group": "B",
+  "subject": "Inquiry Regarding Master's Supervision in Web Application Development - Wasim Akram Janyaro",
+  "body": "Dear Professor Zhaohui Lu,\n\nI hope this email finds you well.\n\nMy name is Wasim Akram Janyaro, and I have completed my Bachelor's degree in Software Engineering from Mehran University of Engineering & Technology, Pakistan.\n\nDuring my Bachelor's studies, I conducted my research thesis on the topic \"GAMERCONNECT (all in one platform).\" In this research, I used Flutter, Dart, Firebase, Stripe escrow payments, AI chatbot, and Agile sprints to investigate Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.\n\nAfter reviewing your academic profile and research publications, I found that your research on web application development is interesting, and I am keen to broaden into this area using my real transferable skills in Flutter, Firebase, and software engineering. My background in mobile app development and building structured digital platforms offers a solid foundation for exploring your related work.\n\nTherefore, I am highly interested in pursuing my Master's degree under your supervision at Hainan Normal University. I believe that your academic guidance and research expertise would greatly contribute to my academic and research development.\n\nI would be grateful if you could consider my application and provide me with an acceptance letter (if you are willing to supervise me) for the upcoming CSC 2027 scholarship intake.\n\nI have attached my CV for your kind consideration.\n\nThank you very much for your time and consideration. I look forward to hearing from you.\n\nRegards,\n\nWasim Akram Janyaro"
+ }
+]

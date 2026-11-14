@@ -1,0 +1,77 @@
+{
+ "name": "Wasim Akram Janyaro",
+ "email": "waseemjanyaro@gmail.com",
+ "phone": "(+92) 3132773873",
+ "nationality": "Pakistani",
+ "current_degree": "Bachelor of Engineering in Software Engineering",
+ "university": "Mehran University of Engineering & Technology",
+ "gpa": "3.40/4.00",
+ "target_degree": "Master",
+ "research_interests": [
+  "Machine Learning",
+  "Deep Learning",
+  "Computer Vision",
+  "Public Health Informatics",
+  "Healthcare AI",
+  "Explainable AI"
+ ],
+ "search_keywords": [
+  "Machine Learning",
+  "Deep Learning",
+  "Computer Vision",
+  "Healthcare AI",
+  "Explainable AI",
+  "Medical Imaging",
+  "Public Health Data"
+ ],
+ "search_keywords_zh": [
+  "机器学习",
+  "深度学习",
+  "计算机视觉",
+  "医疗人工智能",
+  "可解释性人工智能",
+  "医学影像",
+  "公共卫生数据"
+ ],
+ "skills": [
+  "Python",
+  "PyTorch",
+  "TensorFlow",
+  "scikit-learn",
+  "Pandas",
+  "NumPy",
+  "SHAP",
+  "Grad-CAM",
+  "Flutter",
+  "Firebase",
+  "FastAPI",
+  "Streamlit",
+  "SQL",
+  "MongoDB",
+  "PostgreSQL",
+  "Docker",
+  "AWS",
+  "Git"
+ ],
+ "publications": [],
+ "projects": [
+  "GAMERCONNECT (all in one platform)",
+  "Vaxgap (Machine Learning, Public Health)",
+  "ChestScan-CNN (Deep Learning, Computer Vision)",
+  "MaternalRisk (Classification, Health Data)",
+  "DengueForecast"
+ ],
+ "bachelor_field": "Software Engineering",
+ "country": "Pakistan",
+ "thesis_title": "GAMERCONNECT (all in one platform)",
+ "thesis_methods": [
+  "Flutter",
+  "Dart",
+  "Firebase",
+  "Stripe escrow payments",
+  "AI chatbot",
+  "Agile sprints"
+ ],
+ "thesis_summary": "Developed a mobile marketplace application for gamers featuring secure user authentication, seller verification, escrow payments, and an integrated AI chatbot.",
+ "experience_summary": "Trainee Engineer at Consolidated Perfect Engineers and Flutter Intern at Marfah Technologies, gaining hands-on software development experience with mobile apps, databases, and clean code practices. Also worked as a computer operator and completed multiple machine learning and deep learning health informatics projects."
+}
